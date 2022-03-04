@@ -1,0 +1,10 @@
+bread=500
+beans=1000
+banana=900
+butter=5000
+milk=600
+coconut=900
+chocolate=2000
+tomatoes=50
+cocobutter=800
+salt=200
